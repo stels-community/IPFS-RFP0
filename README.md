@@ -19,6 +19,9 @@ We meet addressing in discontinuos forms, and our practic said: "unified address
 3. //
 
 raw
+
 `nodehash.ipfs/contenthash`
+
 ipns
+
 `nodename.ipfs/contentname`

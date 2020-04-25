@@ -3,7 +3,8 @@ RFP 0: Internet per peer
 
 > NOTE: Very draft state!
 >
-> [Some philosophy on Russian](https://github.com/stels-community/IPFS-RFP0/blob/master/README.RU.md)
+> [Some philosophy on Russian
+> [one](https://github.com/stels-community/IPFS-RFP0/blob/master/README.RU.md) [two](https://github.com/stels-community/IPFS-RFP0/blob/master/IDEA.RU.md)
 
 ## Summary
 
